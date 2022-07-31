@@ -1,7 +1,8 @@
 # Renganathan_DataStructureAssignmentSolution
 
 
-Question 1 MARKS : 20
+Question 1
+
 Your friend is a chief architect, who is working on building a skyscraper, in Mumbai. The
 construction is in such a way that the floors will be constructed in other factories and they will be
 assembled. All the sizes will be distinct.
@@ -34,7 +35,8 @@ If no floor can be assembled on the ith day, leave the line empty.
 
 
 
-Question 2 MARKS: 30
+Question 2
+
 You are working in an MNC, which manages the Transactions, where only BST is used as a
 Data Structure. The company stores all the data of transactions in BST such that the tree is
 always a complete BST.
